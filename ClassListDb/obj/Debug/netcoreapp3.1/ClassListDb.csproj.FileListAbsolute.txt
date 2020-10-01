@@ -1,0 +1,13 @@
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\bin\Debug\netcoreapp3.1\ClassListDb.deps.json
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\bin\Debug\netcoreapp3.1\ClassListDb.runtimeconfig.json
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\bin\Debug\netcoreapp3.1\ClassListDb.runtimeconfig.dev.json
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\bin\Debug\netcoreapp3.1\ClassListDb.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\bin\Debug\netcoreapp3.1\ClassListDb.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\obj\Debug\netcoreapp3.1\ClassListDb.csprojAssemblyReference.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\obj\Debug\netcoreapp3.1\ClassListDb.AssemblyInfoInputs.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\obj\Debug\netcoreapp3.1\ClassListDb.AssemblyInfo.cs
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\obj\Debug\netcoreapp3.1\ClassListDb.csproj.CoreCompileInputs.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\obj\Debug\netcoreapp3.1\EFCorePluralizer.cs
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\obj\Debug\netcoreapp3.1\ClassListDb.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\obj\Debug\netcoreapp3.1\ClassListDb.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\ClassList\ClassListDb\obj\Debug\netcoreapp3.1\ClassListDb.genruntimeconfig.cache
